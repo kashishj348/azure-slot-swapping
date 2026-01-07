@@ -133,7 +133,7 @@ How to use Azure CLI effectively
 ## 📸 Screenshots
 
 ### 1️⃣ Deployment Overview
-![Deployment Overview](images/Screenshot%202026-01-07%20135456.png)
+images/Screenshot%202026-01-07%20135456.png
 
 ### 2️⃣ Azure Portal – Staging Slot
 ![Staging Slot](images/Screenshot%202026-01-07%20135516.png)
