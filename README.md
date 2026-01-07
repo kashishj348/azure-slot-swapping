@@ -135,5 +135,5 @@ How to use Azure CLI effectively
 # Project Title
 
 [![Screenshot 1](images/img1.png)](https://github.com/kashishj348/azure-slot-swapping/blob/main/images/img1.png?raw=true)
-
+[![Screenshot 1](images/img1.png)](https://raw.githubusercontent.com/kashishj348/azure-slot-swapping/main/images/img1.png)
 
