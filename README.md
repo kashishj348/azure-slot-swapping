@@ -137,14 +137,14 @@ How to use Azure CLI effectively
 ## Screenshots
 
 ### Screenshot 1
-![Screenshot 1](images/img1.png)
+[![Screenshot 1](images/img1.png)](images/img1.png)
 
 ### Screenshot 2
-![Screenshot 2](images/img2.png)
+[![Screenshot 2](images/img2.png)](images/img2.png)
 
 ### Screenshot 3
-![Screenshot 3](images/img3.png)
+[![Screenshot 3](images/img3.png)](images/img3.png)
 
 ### Screenshot 4
-![Screenshot 4](images/img4.png)
+[![Screenshot 4](images/img4.png)](images/img4.png)
 
