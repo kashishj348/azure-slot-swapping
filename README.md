@@ -132,17 +132,19 @@ How to use Azure CLI effectively
 
 
 
-## 📸 Screenshots
+# Project Title
 
-### 1️⃣ Deployment Overview
-![Deployment Overview](images/Screenshot%202026-01-07%20135456.png)
+## Screenshots
 
-### 2️⃣ Staging Slot View
-![Staging Slot View](images/Screenshot%202026-01-07%20135516.png)
+### Screenshot 1
+![Screenshot 1](images/img1.png)
 
-### 3️⃣ Code Deployment to Staging
-![Code Deployment](images/Screenshot%202026-01-07%20135540.png)
+### Screenshot 2
+![Screenshot 2](images/img2.png)
 
-### 4️⃣ Slot Swap Confirmation
-![Slot Swap Confirmation](images/Screenshot%202026-01-07%20135623.png)
+### Screenshot 3
+![Screenshot 3](images/img3.png)
+
+### Screenshot 4
+![Screenshot 4](images/img4.png)
 
