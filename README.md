@@ -130,20 +130,21 @@ How to swap environments with zero downtime
 How to use Azure CLI effectively
 
 
+
+
 ## 📸 Screenshots
 
 ### 1️⃣ Deployment Overview
-images/Screenshot%202026-01-07%20135456.png
+![Deployment Overview](https://raw.githubusercontent.com/USERNAME/REPO/main/images/Screenshot%202026-01-07%20135456.png)
 
-### 2️⃣ Azure Portal – Staging Slot
-![Staging Slot](images/Screenshot%202026-01-07%20135516.png)
+### 2️⃣ Staging Slot View
+![Staging Slot View](https://raw.githubusercontent.com/USERNAME/REPO/main/images/Screenshot%202026-01-07%20135516.png)
 
 ### 3️⃣ Code Deployment to Staging
-![Deploy to Staging](images/Screenshot%202026-01-07%20135540.png)
+![Code Deployment](https://raw.githubusercontent.com/USERNAME/REPO/main/images/Screenshot%202026-01-07%20135540.png)
 
 ### 4️⃣ Slot Swap Confirmation
-![Slot Swap](images/Screenshot%202026-01-07%20135623.png)
-
+![Slot Swap Confirmation](https://raw.githubusercontent.com/USERNAME/REPO/main/images/Screenshot%202026-01-07%20135623.png)
 
 
 
