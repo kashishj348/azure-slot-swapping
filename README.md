@@ -134,18 +134,5 @@ How to use Azure CLI effectively
 
 # Project Title
 
-## Screenshots
 
-### Screenshot 1
-<img width="1358" height="714" alt="img1" src="https://github.com/user-attachments/assets/3ba4370b-04b5-4404-8c53-0c716c2bbe8c" />
-
-
-### Screenshot 2
-[![Screenshot 2](images/img2.png)](images/img2.png)
-
-### Screenshot 3
-[![Screenshot 3](images/img3.png)](images/img3.png)
-
-### Screenshot 4
-[![Screenshot 4](images/img4.png)](images/img4.png)
 
