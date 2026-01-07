@@ -134,10 +134,14 @@ How to use Azure CLI effectively
 
 # Project Title
 
-## Screenshots
+links:- (paste on browser)
 
-![Screenshot 1] (images/img1.png)
-![Screenshot 2](images/img2.png)
-![Screenshot 3](images/img3.png)
-![Screenshot 4](images/img4.png)
+https://github.com/kashishj348/azure-slot-swapping/blob/main/images/img1.png
+
+https://github.com/kashishj348/azure-slot-swapping/blob/main/images/img2.png
+
+https://github.com/kashishj348/azure-slot-swapping/blob/main/images/img3.png
+
+https://github.com/kashishj348/azure-slot-swapping/blob/main/images/img4.png
+
 
