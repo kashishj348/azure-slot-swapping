@@ -136,12 +136,11 @@ How to use Azure CLI effectively
 
 links:- (paste on browser)
 
-https://github.com/kashishj348/azure-slot-swapping/blob/main/images/img1.png
 
-https://github.com/kashishj348/azure-slot-swapping/blob/main/images/img2.png
+https://raw.githubusercontent.com/kashishj348/azure-slot-swapping/refs/heads/main/images/img1.png
 
-https://github.com/kashishj348/azure-slot-swapping/blob/main/images/img3.png
+https://raw.githubusercontent.com/kashishj348/azure-slot-swapping/main/images/img2.png
 
-https://github.com/kashishj348/azure-slot-swapping/blob/main/images/img4.png
+https://raw.githubusercontent.com/kashishj348/azure-slot-swapping/main/images/img3.png
 
-
+https://raw.githubusercontent.com/kashishj348/azure-slot-swapping/main/images/img4.png
